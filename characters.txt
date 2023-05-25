@@ -1,3 +1,6 @@
 rabbit
 Tortoise
 tiger
+fox
+elephant
+monkey
